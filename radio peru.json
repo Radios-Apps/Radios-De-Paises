@@ -9,7 +9,7 @@
     "custom_label_list": true,
     "song_metadata": true,
     "image_album_art": true,
-    "blur_radio_background": false,
+    "blur_radio_background": true,
     "privacy_policy_url": "https://sites.google.com/view/privacy-policy",
     "more_apps_url": "https://codecanyon.net/user/solodroid/portfolio",
     "redirect_url": ""

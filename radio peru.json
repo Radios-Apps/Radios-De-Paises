@@ -15,7 +15,7 @@
     "redirect_url": ""
   },
   "ads": {
-    "ad_status": true,
+    "ad_status": false,
     "main_ads": "admob",
     "backup_ads": "none",
     "admob_banner_id": "ca-app-pub-3251438469471899/5468841379",

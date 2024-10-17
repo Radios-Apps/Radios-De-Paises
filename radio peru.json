@@ -1,7 +1,7 @@
 {
   "blog": {
-    "blogger_id": "0123456789",
-    "api_key": "XXXXXXXXXXXXXXXXXXXXXX"
+    "blogger_id": "3817511219979102289",
+    "api_key": "AIzaSyByJmR-WSWeSGPZlA0KEDEfL9nheOHDh8Q"
   },
   "app": {
     "status": true,
@@ -18,21 +18,21 @@
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_banner_id": "ca-app-pub-3940256099942544/9214589741",
-    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
-    "ad_manager_banner_id": "/6499/example/banner",
-    "ad_manager_interstitial_id": "/6499/example/interstitial",
-    "ad_manager_native_id": "/6499/example/native",
-    "ad_manager_app_open_id": "/6499/example/app-open",
-    "fan_banner_id": "YOUR_PLACEMENT_ID",
-    "fan_interstitial_id": "YOUR_PLACEMENT_ID",
-    "fan_native_id": "YOUR_PLACEMENT_ID",
+    "admob_banner_id": "ca-app-pub-3251438469471899/5468841379",
+    "admob_interstitial_id": "ca-app-pub-3251438469471899/3751096298",
+    "admob_native_id": "ca-app-pub-3251438469471899/3677447248",
+    "admob_app_open_id": "ca-app-pub-3251438469471899/9819149922",
+    "ad_manager_banner_id": "0",
+    "ad_manager_interstitial_id": "0",
+    "ad_manager_native_id": "0",
+    "ad_manager_app_open_id": "0",
+    "fan_banner_id": "0",
+    "fan_interstitial_id": "0",
+    "fan_native_id": "0",
     "startapp_app_id": "0",
-    "unity_game_id": "4089993",
-    "unity_banner_id": "banner",
-    "unity_interstitial_id": "video",
+    "unity_game_id": "0",
+    "unity_banner_id": "0",
+    "unity_interstitial_id": "0",
     "applovin_max_banner_id": "0",
     "applovin_max_interstitial_id": "0",
     "applovin_max_native_manual_id": "0",
@@ -40,26 +40,26 @@
     "applovin_discovery_banner_zone_id": "0",
     "applovin_discovery_banner_mrec_zone_id": "0",
     "applovin_discovery_interstitial_zone_id": "0",
-    "ironsource_app_key": "85460dcd",
-    "ironsource_banner_id": "DefaultBanner",
-    "ironsource_interstitial_id": "DefaultInterstitial",
-    "wortise_app_id": "test-app-id",
-    "wortise_banner_id": "test-banner",
-    "wortise_interstitial_id": "test-interstitial",
-    "wortise_native_id": "test-native",
-    "wortise_app_open_id": "test-app-open",
+    "ironsource_app_key": "0",
+    "ironsource_banner_id": "0",
+    "ironsource_interstitial_id": "0",
+    "wortise_app_id": "0",
+    "wortise_banner_id": "0",
+    "wortise_interstitial_id": "0",
+    "wortise_native_id": "0",
+    "wortise_app_open_id": "0",
     "interstitial_ad_interval": 3,
     "native_ad_interval": 8,
     "native_ad_index": 6
   },
   "labels": [
     {
-      "term": "Culture",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/culture.jpg"
+      "term": "Musica",
+      "image": "https://png.pngtree.com/png-clipart/20221027/ourmid/pngtree-music-logo-png-image_6389182.png"
     },
     {
-      "term": "Education",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/blogger/radio/category/education.jpg"
+      "term": "Noticias",
+      "image": "https://w7.pngwing.com/pngs/665/700/png-transparent-computer-icons-news-media-printing-advertising-news-ico-text-logo-media.png"
     },
     {
       "term": "Entertainment",
